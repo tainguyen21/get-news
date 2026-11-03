@@ -1,0 +1,12 @@
+# Files uploaded to Cloud Build. Never upload .env (webhook secrets).
+.gcloudignore
+.git
+.gitignore
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+tests/
+plans/
+docs/
+.artifact-cleanup-policy.json
