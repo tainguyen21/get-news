@@ -1,0 +1,48 @@
+# News sources. Add, remove or disable (enabled: false) entries without code changes.
+#
+# kind:
+#   rss              RSS/Atom feed (also Techmeme: the original article link is taken from the item body)
+#   google_news      Google News RSS; the publisher comes from the item's <source> element
+#   hn               Hacker News front page via the Algolia search API (points used for hot news)
+#   github_trending  github.com/trending HTML page
+# category: tech | world, a hint only; the scoring model decides the final section.
+
+sources:
+  # International press
+  - {id: bbc-world, kind: rss, name: BBC, category: world, url: "https://feeds.bbci.co.uk/news/world/rss.xml"}
+  - {id: bbc-tech, kind: rss, name: BBC, category: tech, url: "https://feeds.bbci.co.uk/news/technology/rss.xml"}
+  - {id: techcrunch, kind: rss, name: TechCrunch, category: tech, url: "https://techcrunch.com/feed/"}
+  - {id: the-verge, kind: rss, name: The Verge, category: tech, url: "https://www.theverge.com/rss/index.xml"}
+  - {id: ars-technica, kind: rss, name: Ars Technica, category: tech, url: "https://feeds.arstechnica.com/arstechnica/index"}
+  - {id: guardian-world, kind: rss, name: The Guardian, category: world, url: "https://www.theguardian.com/world/rss"}
+  - {id: guardian-tech, kind: rss, name: The Guardian, category: tech, url: "https://www.theguardian.com/uk/technology/rss"}
+  - {id: aljazeera, kind: rss, name: Al Jazeera, category: world, url: "https://www.aljazeera.com/xml/rss/all.xml"}
+  - {id: nyt-world, kind: rss, name: The New York Times, category: world, url: "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"}
+  - {id: nyt-tech, kind: rss, name: The New York Times, category: tech, url: "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"}
+  - {id: dw-world, kind: rss, name: DW, category: world, url: "https://rss.dw.com/rdf/rss-en-world"}
+  - {id: cnbc-tech, kind: rss, name: CNBC, category: tech, url: "https://www.cnbc.com/id/19854910/device/rss/rss.html"}
+  - {id: wired, kind: rss, name: Wired, category: tech, url: "https://www.wired.com/feed/rss"}
+  - {id: engadget, kind: rss, name: Engadget, category: tech, url: "https://www.engadget.com/rss.xml"}
+
+  # Tech communities
+  - {id: hacker-news, kind: hn, name: Hacker News, category: tech, url: "https://hn.algolia.com/api/v1/search?tags=front_page&hitsPerPage=50"}
+  - {id: github-trending, kind: github_trending, name: GitHub Trending, category: tech, url: "https://github.com/trending?since=daily"}
+  - {id: lobsters, kind: rss, name: Lobsters, category: tech, url: "https://lobste.rs/rss"}
+  - {id: techmeme, kind: rss, name: Techmeme, category: tech, url: "https://www.techmeme.com/feed.xml"}
+
+  # Google News (the only route to Reuters and AP headlines) answers HTTP 503 to requests from
+  # Cloud Run, verified on 2026-11-03, so these are disabled. Re-enable if that changes.
+  - {id: gnews-world, kind: google_news, name: Google News, category: world, enabled: false, url: "https://news.google.com/rss/headlines/section/topic/WORLD?hl=en-US&gl=US&ceid=US:en"}
+  - {id: gnews-tech, kind: google_news, name: Google News, category: tech, enabled: false, url: "https://news.google.com/rss/headlines/section/topic/TECHNOLOGY?hl=en-US&gl=US&ceid=US:en"}
+  - {id: gnews-reuters, kind: google_news, name: Google News, category: world, enabled: false, url: "https://news.google.com/rss/search?q=site:reuters.com+when:1h&hl=en-US&gl=US&ceid=US:en"}
+  - {id: gnews-ap, kind: google_news, name: Google News, category: world, enabled: false, url: "https://news.google.com/rss/search?q=site:apnews.com+when:1h&hl=en-US&gl=US&ceid=US:en"}
+
+  # Vietnamese press
+  - {id: vnexpress-world, kind: rss, name: VnExpress, category: world, url: "https://vnexpress.net/rss/the-gioi.rss"}
+  - {id: vnexpress-news, kind: rss, name: VnExpress, category: world, url: "https://vnexpress.net/rss/thoi-su.rss"}
+  - {id: vnexpress-tech, kind: rss, name: VnExpress, category: tech, url: "https://vnexpress.net/rss/so-hoa.rss"}
+  - {id: tuoitre-world, kind: rss, name: Tuổi Trẻ, category: world, url: "https://tuoitre.vn/rss/the-gioi.rss"}
+  - {id: tuoitre-tech, kind: rss, name: Tuổi Trẻ, category: tech, url: "https://tuoitre.vn/rss/cong-nghe.rss"}
+  - {id: genk-ai, kind: rss, name: Genk, category: tech, url: "https://genk.vn/rss/ai.rss"}
+  - {id: genk-mobile, kind: rss, name: Genk, category: tech, url: "https://genk.vn/rss/mobile.rss"}
+  - {id: genk-internet, kind: rss, name: Genk, category: tech, url: "https://genk.vn/rss/internet.rss"}

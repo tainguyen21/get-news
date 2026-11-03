@@ -1,0 +1,70 @@
+# Tuning for selection, hot news and models. Times are Asia/Ho_Chi_Minh.
+
+timezone: Asia/Ho_Chi_Minh
+
+# Passed to the scoring model. Earlier lines matter more.
+topic_priorities:
+  - "AI, phần mềm, công cụ lập trình, open source, cloud, bảo mật"
+  - "Thiết bị và Big Tech (Apple, Google, Microsoft, Samsung, Meta, Amazon, Nvidia), chip bán dẫn"
+  - "Chính trị, ngoại giao, xung đột, chiến tranh, thiên tai, sự kiện lớn toàn cầu và thời sự lớn của Việt Nam"
+topic_low_priority: "Kinh tế, thị trường, chứng khoán, crypto, gọi vốn: chỉ chọn khi là sự kiện rất lớn"
+topic_skip: "Thể thao, giải trí, showbiz, đời sống, tai nạn hoặc vụ án nhỏ mang tính địa phương, quảng cáo, khuyến mãi"
+
+models:
+  # Changing the embedding model or dims makes stored centroids incomparable: clear the
+  # clusters collection and state/seen when you do.
+  embedding: gemini-embedding-001
+  embedding_dims: 768
+  scoring: gemini-3.1-flash-lite
+  summary: gemini-3.8-flash
+
+# Cosine similarity of title+snippet embeddings. Embeddings alone cannot tell "same event"
+# from "same topic", so pairs between the two thresholds are checked by the scoring model.
+similarity:
+  same_event: 0.88                # at or above: same event without asking the model
+  candidate: 0.66                 # below: different event; in between: the model decides
+  max_candidates: 3
+
+cluster:
+  match_window_hours: 24          # only clusters updated within this window can absorb new articles
+  max_age_hours: 48               # articles older than this are ignored at ingest
+  max_articles_per_cluster: 20
+  max_new_per_run: 200            # newest first; a larger backlog drains over later runs
+  retention_days: 7               # Firestore TTL for cluster documents
+
+dedupe:
+  sent_lookback_hours: 72         # an event matching one sent within this window is a repeat
+
+digest:
+  slots: ["07:00", "19:00"]       # keep in sync with the digest cron in deploy.sh
+  slot_window_hours: 3            # runs outside a slot window are one-off digests
+  tech_items: 5
+  world_items: 5
+  window_hours: 12
+  candidate_pool: 40              # clusters sent to the scoring model per digest
+  min_material_chars: 800         # events with less full text yield to the next candidate
+  max_fulltext_articles: 3
+  max_article_chars: 6000
+
+hot:
+  min_publishers: 3
+  publisher_window_hours: 2
+  hn_min_points: 200
+  hn_min_points_per_hour: 60
+  hn_max_age_hours: 6             # older Hacker News stories are no longer breaking news
+  score_threshold: 8
+  last_slot_threshold: 9
+  max_per_day: 3
+  quiet_start: "23:00"
+  quiet_end: "07:00"
+
+fulltext_skip_domains:            # blocked or paywalled; their headlines still count as publishers
+  - reuters.com
+  - apnews.com
+  - arstechnica.com
+  - nytimes.com
+
+ops:
+  source_failure_alert_after: 3   # consecutive failed runs before alerting
+  missed_digest_after_minutes: 30
+  ingest_stale_after_minutes: 60  # checked by each digest

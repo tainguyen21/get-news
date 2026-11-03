@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News]]></title>
+        <description><![CDATA[BBC News - World]]></description>
+        <link>https://www.bbc.co.uk/news/world</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News</title>
+            <link>https://www.bbc.co.uk/news/world</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Tue, 03 Nov 2026 04:00:55 GMT</lastBuildDate>
+        <atom:link href="https://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[US strikes Iran ahead of midterm elections]]></title>
+            <description><![CDATA[US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cx240mrm3g8vo#0</guid>
+            <pubDate>Tue, 03 Nov 2026 03:39:08 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b14/live/7d50c580-d735-11f1-8523-e7796527683a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Supreme Court rejects Trump's request to stop California counting disputed votes]]></title>
+            <description><![CDATA[The ruling, which comes on the eve of the midterm elections, essentially ends the Trump administration's bid to disqualify the ballots in the state. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm5ynekkn5qko#0</guid>
+            <pubDate>Tue, 03 Nov 2026 03:32:36 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c3e/live/cffa1c00-d726-11f1-b237-93d5595d4291.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Russian bombing kills 26 people at Ukraine aid centre, Kyiv says]]></title>
+            <description><![CDATA[Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an "utterly horrific" attack.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cjy56dndlyz0o#0</guid>
+            <pubDate>Tue, 03 Nov 2026 01:56:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee1e/live/8480acc0-d6eb-11f1-a741-236ee91c2e25.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Thousands of European troops to rehearse Ukraine deployment in event of peace]]></title>
+            <description><![CDATA[Western officials stress that any force sent to Ukraine would not take part in any offensive operations.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm3wv085ne6po#0</guid>
+            <pubDate>Tue, 03 Nov 2026 00:07:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4086/live/4322ff00-d6f3-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Plane may have broken apart ahead of deadly Florida jet crash, say investigators ]]></title>
+            <description><![CDATA[The National Transportation Safety Board also believes weather could have been a factor in the crash, but warns it is too early to determine the cause. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm369yy7lw73o#0</guid>
+            <pubDate>Tue, 03 Nov 2026 00:08:14 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b940/live/17a71660-d714-11f1-b19c-4d0080e30e42.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shop freezers in seven European countries hit by cyber-attack]]></title>
+            <description><![CDATA[The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq1kd1nee80eo#0</guid>
+            <pubDate>Mon, 02 Nov 2026 17:38:11 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31c7/live/152ec730-d6c3-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fighting returns to Kherson region after longest Ukraine war ceasefire]]></title>
+            <description><![CDATA[Though unprecedented, the six-day truce has done little to alter the wider trajectory of a war that continues to grinds on.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo#0</guid>
+            <pubDate>Mon, 02 Nov 2026 17:33:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5be/live/174cc760-d6d2-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Legal challenge to Australia's social media ban to start in High Court]]></title>
+            <description><![CDATA[A rights group will argue the world-leading policy robs under-16s of their right to free communication.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck79py02p1jlo#1</guid>
+            <pubDate>Mon, 02 Nov 2026 23:37:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7af5/live/6a1bb4a0-d67e-11f1-ac3d-edfeb9f7d0aa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[North Korea denies being behind record $6.3bn Binance hack]]></title>
+            <description><![CDATA[US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6rey4v53exgo#1</guid>
+            <pubDate>Tue, 03 Nov 2026 01:23:03 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a90/live/75145840-d727-11f1-b237-93d5595d4291.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man and boy arrested after allegedly attacking One Nation volunteer with bat ]]></title>
+            <description><![CDATA[The incident comes amid growing calls for the temperature of political debate in Australia to be turned down.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cwly3jd27m9xo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwly3jd27m9xo#1</guid>
+            <pubDate>Tue, 03 Nov 2026 03:30:16 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a969/live/dd51e9c0-d729-11f1-9b56-c9b433d51ba8.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man guilty of stealing cash from farm owned by South African president]]></title>
+            <description><![CDATA[The case, part of the "Farmgate" scandal, has left President Cyril Ramaphosa mired in an impeachment saga.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo#1</guid>
+            <pubDate>Mon, 02 Nov 2026 20:08:51 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee6f/live/1399f160-d6fa-11f1-b983-c357054e4d1e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dutch police offer record €2m reward in hunt for drug lord]]></title>
+            <description><![CDATA[Jos Leijdekkers has been found guilty in absentia of cocaine smuggling and is believed to be in Sierra Leone.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ckly0v2q2yxlo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckly0v2q2yxlo#1</guid>
+            <pubDate>Mon, 02 Nov 2026 17:29:49 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/055d/live/20e151f0-d6dd-11f1-b2be-0146bf989691.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump to remove Rwanda and South Africa from US trade deal]]></title>
+            <description><![CDATA[The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9j346xg0mkvo#1</guid>
+            <pubDate>Tue, 03 Nov 2026 03:00:36 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e727/live/e5cde5c0-d6ef-11f1-ae42-99a80c72db9e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fake nuclear warning from hacked app sparks unease but not panic in Ukraine]]></title>
+            <description><![CDATA[Many Ukrainians, who have faced years of Russian attacks, did not take the messages seriously and doubted their veracity.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cwx28mngxz8do?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwx28mngxz8do#1</guid>
+            <pubDate>Mon, 02 Nov 2026 18:34:24 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b47a/live/2a240410-d6c9-11f1-ac20-7783925c811f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Five arrested after South African farmer shot and tortured]]></title>
+            <description><![CDATA[The attack on Donovan Marx, 50, comes as right-wing groups say there is a genocide of white people - a claim widely discredited.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cv4g13z0px8yo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cv4g13z0px8yo#1</guid>
+            <pubDate>Mon, 02 Nov 2026 10:48:47 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d521/live/c93db920-d696-11f1-8052-913cc7942a17.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wizz Air flight from Luton in emergency landing after bomb threat]]></title>
+            <description><![CDATA[A Hungarian fighter jet escorted the aircraft to Budapest after the threat was received mid-air.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c6rryvwre0p5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6rryvwre0p5o#1</guid>
+            <pubDate>Mon, 02 Nov 2026 14:35:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4189/live/0af88b20-d6c8-11f1-ac20-7783925c811f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ryanair says it may freeze workers' pay and raise airfares]]></title>
+            <description><![CDATA[The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr0qkve1x224o#1</guid>
+            <pubDate>Mon, 02 Nov 2026 12:22:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/895b/live/a85523b0-d691-11f1-8f56-0b6ab08f384e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Uganda begins withdrawing troops from Somalia after 20 years]]></title>
+            <description><![CDATA[Uganda has been helping Somalia battle an insurgency led by the al-Shabab militant group since 2007.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c8zxlqxwed4do?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c8zxlqxwed4do#1</guid>
+            <pubDate>Mon, 02 Nov 2026 12:05:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c17/live/01b6a350-d68f-11f1-b7fe-13bd08d80ad6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[China state broadcaster pulls La Liga matches following Mbappé joke]]></title>
+            <description><![CDATA[China Media Group, which acknowledged Mbappé's apology, has not said how long the blackout will last.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cq78pypg0800o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq78pypg0800o#1</guid>
+            <pubDate>Mon, 02 Nov 2026 03:58:38 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e960/live/11376b60-d66d-11f1-856b-2f2ef225beb0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[France launches attempted murder investigation after petrol bomb thrown at police]]></title>
+            <description><![CDATA[There were hundreds of arrests as protesters took to the streets in cities across France for the third weekend in a row. 
+]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwvg05z184j0o#1</guid>
+            <pubDate>Mon, 02 Nov 2026 00:15:30 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30b9/live/175c0e10-d62c-11f1-b085-b9e65bc8bfff.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Popular Australian children's author jailed over child exploitation offences]]></title>
+            <description><![CDATA[The author of Jasper Jones and Runt pleaded guilty in May after police raided his home months earlier.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmjwe9nggp60o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmjwe9nggp60o#1</guid>
+            <pubDate>Mon, 02 Nov 2026 08:03:39 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3ef/live/453a5100-d719-11f1-9230-9f875042357e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israeli strikes in Gaza kill eight including child, hospitals say]]></title>
+            <description><![CDATA[Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmqln14rrzxvo#1</guid>
+            <pubDate>Sun, 01 Nov 2026 17:06:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c922/live/4fe4c8d0-d5fa-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Armed police start patrols in Sydney after Bondi Beach attack]]></title>
+            <description><![CDATA[The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro#1</guid>
+            <pubDate>Sun, 01 Nov 2026 17:56:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce75/live/a6edaf70-d618-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[University of Cambridge scientist among those who died in Spanish train crash]]></title>
+            <description><![CDATA[Marta Shahbazi was an "inspiring, talented and passionate scientist", says the laboratory where she worked.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o#1</guid>
+            <pubDate>Sun, 01 Nov 2026 17:05:18 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a72/live/c29d60f0-d68e-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shops looted as German cost-of-living protests turn violent]]></title>
+            <description><![CDATA[The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqj34gnd3n30o#1</guid>
+            <pubDate>Sun, 01 Nov 2026 11:57:48 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ace/live/3e4ef120-d5d4-11f1-8629-7b9503d639be.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[India's opposition holds mega rally seeking election chief's resignation]]></title>
+            <description><![CDATA[Thousands gathered in the heart of delhi, calling for the chief election commissioner to step down. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c60qk92dvlwgo#1</guid>
+            <pubDate>Sun, 01 Nov 2026 07:00:55 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab52/live/e490a850-d5d2-11f1-8629-7b9503d639be.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bollywood film star Ranbir Kapoor on AI, movies and fatherhood]]></title>
+            <description><![CDATA[The film star plays the leading role in a major new adaptation of the Indian epic Ramayana.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no#2</guid>
+            <pubDate>Tue, 03 Nov 2026 00:09:13 GMT</pubDate>
+            <media:thumbnail width="240" height="160" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73de/live/7abdffc0-d700-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What Florida jet audio and flight data tells us about its final moments]]></title>
+            <description><![CDATA[A private jet crashed in Florida on Sunday, killing all nine people on board, according to US authorities.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/c52e9lgxjz82o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c52e9lgxjz82o#2</guid>
+            <pubDate>Mon, 02 Nov 2026 19:49:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d14/live/f2671810-d6ea-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack]]></title>
+            <description><![CDATA[Dozens of supermarkets in seven European countries dumped huge quantities of food after refrigerators and freezers were targeted in a cyber-attack.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro#2</guid>
+            <pubDate>Mon, 02 Nov 2026 17:34:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ffe/live/f76751a0-d6ee-11f1-93e1-3b657b665bcf.png"/>
+        </item>
+        <item>
+            <title><![CDATA[What we know about the alert app hack in Ukraine and Russia]]></title>
+            <description><![CDATA[Both Ukraine and Russia say their air raid alert apps were cyber-attacked - Joe Tidy explains what we know so far.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/crq5n6204g20o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/crq5n6204g20o#2</guid>
+            <pubDate>Mon, 02 Nov 2026 14:24:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cbd/live/ab9f8ec0-d6c8-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I couldn't be silent': Iranian teen's mother seeking justice after daughter shot dead]]></title>
+            <description><![CDATA[BBC Panorama follows grieving Samira who - after the killing of Sevda - faces up to the Tehran regime.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/cwjdmp25mem9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cwjdmp25mem9o#2</guid>
+            <pubDate>Mon, 02 Nov 2026 06:05:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83a4/live/9b45be10-d474-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[If hackers can take control of a supermarket freezer, how vulnerable is other tech?]]></title>
+            <description><![CDATA[Dozens of shops across European countries have been hit by a cyber-attack affecting their fridges.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckpqg8lve73go#3</guid>
+            <pubDate>Mon, 02 Nov 2026 18:25:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db6d/live/6afb9b70-d6cd-11f1-ac20-7783925c811f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Indonesia's toxic haze is giving its neighbours a political headache]]></title>
+            <description><![CDATA[Governments in Singapore and Malaysia are split between anxious citizens and an irascible neighbour.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c3dxwzjn2gw8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3dxwzjn2gw8o#3</guid>
+            <pubDate>Mon, 02 Nov 2026 23:02:01 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/302a/live/febcfd60-d293-11f1-9453-5fe901b3e69e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US midterms campaign 'shattering' spending records to be most expensive ever]]></title>
+            <description><![CDATA[The 2026 campaign is projected to cost nearly $12bn - BBC Verify looks into where all that money has come from.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqkgk64z7p58o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqkgk64z7p58o#3</guid>
+            <pubDate>Mon, 02 Nov 2026 20:54:44 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7007/live/c8ea35c0-d6f5-11f1-b441-2b33b063138f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran killed her teenage daughter - now she is facing up to the regime]]></title>
+            <description><![CDATA[Samira's 16-year-old daughter Sevda was shot dead as they took part in mass protests in January.
+
+]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3qjn8117kwjo#3</guid>
+            <pubDate>Mon, 02 Nov 2026 06:00:54 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81df/live/6c995b00-d45e-11f1-93e1-3b657b665bcf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Democrats have high hopes for midterms - but are the polls right?]]></title>
+            <description><![CDATA[Polls have been predicting a Democratic surge, but last-minute deciders and sampling issues mean there's no guarantee. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmg47p3edv4do?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmg47p3edv4do#3</guid>
+            <pubDate>Mon, 02 Nov 2026 00:25:12 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/731d/live/ec723e90-d694-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+    </channel>
+</rss>
